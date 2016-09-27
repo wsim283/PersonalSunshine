@@ -10,4 +10,10 @@
         <item>@string/pref_units_metric</item>
         <item>@string/pref_units_imperial</item>
     </string-array>
+
+    <integer-array name="compass_size_values">
+        <item>150</item>
+        <item>175</item>
+        <item>200</item>
+    </integer-array>
 </resources>
